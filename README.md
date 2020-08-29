@@ -1,6 +1,7 @@
 # frontend
 
 ### A login component built with vue, vuetify and tailwindcss
+#### To use this component, make sure you have the current version of node installed before you go on with the project setup.
 
 ## Project setup
 ```
