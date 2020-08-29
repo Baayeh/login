@@ -1,5 +1,7 @@
 # frontend
 
+### A login component built with vue, vuetify and tailwindcss
+
 ## Project setup
 ```
 npm install
